@@ -1,0 +1,6 @@
+{
+  "name": "VozCraft Studio - Gerador de Áudio & Voz IA",
+  "description": "Estúdio profissional de conversão de texto em áudio e voz realista com Gemini TTS, vozes masculinas, femininas e famosas, estilos de locução e narração, controle de velocidade e download em MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
